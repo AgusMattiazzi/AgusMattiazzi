@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AgusMattiazzi
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any proyect that makes life better
+- 👀 I’m interested mainly in C, Python and SQL
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking forward to collaborate on sustainable proyects such as biofuels, handling of databases and automation
 - 📫 How to reach me: agusmattiazzi@gmail.com
 
 <!---
